@@ -1,0 +1,29 @@
+.button1, .button2, .button3, .button4, .button5,.button6{
+    width: 12vw;
+    height: 10vh;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    background-color: rgb(168, 118, 42);
+}
+
+.button2{
+    background-color: rgb(129, 99, 156);
+}
+
+.button3{
+    background-color: rgb(110, 156, 99);
+}
+
+.button4{
+    background-color: rgb(40, 94, 82);
+}
+
+.button5{
+    background-color: rgb(240, 240, 100);
+    width: 18vw;
+}
+
+.button6{
+    background-color: rgb(133, 145, 142);
+}
