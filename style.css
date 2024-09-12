@@ -27,3 +27,9 @@
 .button6{
     background-color: rgb(133, 145, 142);
 }
+
+img{
+    width: 40vw;
+    height: 50vh;
+    display: none;
+}
